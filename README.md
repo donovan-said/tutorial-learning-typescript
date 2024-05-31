@@ -1,30 +1,42 @@
 # Tutorial - Learning TypeScript
 
 <p align="center">
-    <img src="./imgs/typescript_logo.png" width="600" height="150">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="300" height="300">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="300" height="300">
 </p>
 
-The purpose of this repository is for me to start learning TypeScript.
+The purpose of this repository is for me to start learning TypeScript and 
+JavaScript.
 
 ## Content
 
 - [Tutorial - Learning TypeScript](#tutorial---learning-typescript)
   - [Content](#content)
   - [Resources](#resources)
+    - [TypeScript](#typescript)
+    - [JavaScript](#javascript)
   - [Setup](#setup)
     - [Install](#install)
     - [Init](#init)
     - [TSConfig](#tsconfig)
-  - [Tutorials](#tutorials)
   - [Documentation, Guides and Examples](#documentation-guides-and-examples)
+  - [Tutorials](#tutorials)
 
 ## Resources
 
+### TypeScript
+
 * [W3 Schools - TypeScript Tutorial](https://www.w3schools.com/typescript/index.php)
-* [W3 Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 * [roadmap.sh - TypeScript](https://roadmap.sh/typescript)
 * [freeCodeCamp - Learn TypeScript - The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 * [Medium - Batuhan Çam - Getting Started with TypeScript: A Comprehensive Guide for Beginners](https://medium.com/@bthncm/getting-started-with-typescript-a-comprehensive-guide-for-beginners-7a4969b6679c)
+
+### JavaScript
+
+* [W3 Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+* [roadmap.sh - JavaScript](https://roadmap.sh/javascript)
+* [Mozilla - JavaScript Fundamentals](https://developer.mozilla.org/en-US/curriculum/core/javascript-fundamentals/)
 
 ## Setup
 
@@ -46,15 +58,16 @@ For more information on the tsconfig file, please see:
 * [TypeScript Docs - What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 * [TypeScript Docs - TSConfig References](https://www.typescriptlang.org/tsconfig/)
 * [GitHub - TSConfig Bases](https://github.com/tsconfig/bases)
-
-## Tutorials
-
-* [0 - Hello World](./src/0_hello_world/hello_world.ts)
-* [1 - Simple Types](./src/1_simple_types/simple_types.ts)
-* [2 - Special Types](./src/2_special_types/special_types.ts)
+* [Mozilla - JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Documentation, Guides and Examples
 
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
 * [TypeScript - JSDocs Reference](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html)
 * [TSDoc](https://tsdoc.org/)
+
+## Tutorials
+
+* [0 - Hello World](./src/0_hello_world/hello_world.ts)
+* [1 - Simple Types](./src/1_simple_types/simple_types.ts)
+* [2 - Special Types](./src/2_special_types/special_types.ts)

@@ -1,4 +1,8 @@
-//Simple Types
+/**
+ * Simple Types
+ * 
+ * https://www.w3schools.com/typescript/typescript_simple_types.php  
+*/
 
 
 // Explicit Types
