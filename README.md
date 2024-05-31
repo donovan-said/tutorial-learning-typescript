@@ -1,7 +1,9 @@
 # Tutorial - Learning TypeScript
 
 <p align="center">
-    <img src="./imgs/typescript_logo.png" width="600" height="150">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="300" height="300">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="300" height="300">
 </p>
 
 The purpose of this repository is for me to start learning TypeScript.
