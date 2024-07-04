@@ -23,6 +23,10 @@ __Reference__:
 
 * For loop examples
 
+### Removed
+
+* node_modules from repository
+
 ## [0.2.0]
 
 ### Changed
