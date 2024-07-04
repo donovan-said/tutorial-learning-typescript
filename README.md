@@ -16,9 +16,9 @@ JavaScript.
   - [Resources](#resources)
     - [TypeScript](#typescript)
     - [JavaScript](#javascript)
+  - [Requirements](#requirements)
   - [Setup](#setup)
-    - [Install](#install)
-    - [Init](#init)
+    - [Install, Initialise, Build \& Run](#install-initialise-build--run)
     - [TSConfig](#tsconfig)
   - [Documentation, Guides and Examples](#documentation-guides-and-examples)
   - [Tutorials](#tutorials)
@@ -38,15 +38,20 @@ JavaScript.
 * [roadmap.sh - JavaScript](https://roadmap.sh/javascript)
 * [Mozilla - JavaScript Fundamentals](https://developer.mozilla.org/en-US/curriculum/core/javascript-fundamentals/)
 
+## Requirements
+
+| Tool                                                   | Description             |
+| :----------------------------------------------------- | :---------------------- |
+| [NodeJS](https://nodejs.org/en/download)               | Node & NPM Installation |
+
 ## Setup
 
-### Install
+### Install, Initialise, Build & Run
 
-* Install TypeScript compiler ```npm install typescript --save-dev```
-
-### Init
-
-* Configure compiler ```npx tsc --init```
+* **Install** TypeScript compiler within the project (repository directory) ```npm install typescript --save-dev```
+* **Initialise** compiler ```npx tsc --init```
+* **Build** i.e. convert to JavaScript ```npx tsc```
+* **Run** JavaScript code with ```node {dir/file.js}```
 
 ### TSConfig
 
