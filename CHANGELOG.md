@@ -17,6 +17,16 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.3.0]
+
+### Added
+
+* For loop examples
+
+### Removed
+
+* node_modules from repository
+
 ## [0.2.0]
 
 ### Changed
