@@ -1,4 +1,5 @@
 {
+  "name": "tutorial-learning-typescript",
   "devDependencies": {
     "typescript": "^5.5.3"
   }
