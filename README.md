@@ -20,8 +20,12 @@
     - [General](#general)
       - [ECMAScript](#ecmascript)
       - [Module Formats](#module-formats)
-    - [TypeScript](#typescript)
-    - [JavaScript](#javascript)
+      - [Package Managers](#package-managers)
+    - [Languages and Runtime](#languages-and-runtime)
+      - [Comparisons](#comparisons)
+      - [NodeJs](#nodejs)
+      - [JavaScript](#javascript)
+      - [TypeScript](#typescript)
 
 ## Overview
 
@@ -71,7 +75,31 @@ For more information on the tsconfig file, please see:
 * [CommonJs Vs ES Modules](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/)
 * [Modules in JavaScript – CommonJS and ESmodules Explained](https://www.freecodecamp.org/news/modules-in-javascript/#commonjsmodules)
 
-### TypeScript
+#### Package Managers
+
+TBC
+
+### Languages and Runtime
+
+* NodeJS is a server side runtime
+* JavaScript is a scripting or programming language
+* TypeScript is a superset of JavaScript
+
+#### Comparisons
+
+* [TypeScript vs Node.js: Overview, Differences and Performance](https://graffersid.com/typescript-vs-nodejs/)
+
+#### NodeJs
+
+* [NodeJS Docs](https://nodejs.org/en)
+
+#### JavaScript
+
+* [W3 Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+* [roadmap.sh - JavaScript](https://roadmap.sh/javascript)
+* [Mozilla - JavaScript Fundamentals](https://developer.mozilla.org/en-US/curriculum/core/javascript-fundamentals/)
+
+#### TypeScript
 
 * [TypeScript Docs](https://www.typescriptlang.org/docs/)
 * [TypeScript - JSDocs Reference](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html)
@@ -80,9 +108,3 @@ For more information on the tsconfig file, please see:
 * [roadmap.sh - TypeScript](https://roadmap.sh/typescript)
 * [freeCodeCamp - Learn TypeScript - The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 * [Medium - Batuhan Çam - Getting Started with TypeScript: A Comprehensive Guide for Beginners](https://medium.com/@bthncm/getting-started-with-typescript-a-comprehensive-guide-for-beginners-7a4969b6679c)
-
-### JavaScript
-
-* [W3 Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
-* [roadmap.sh - JavaScript](https://roadmap.sh/javascript)
-* [Mozilla - JavaScript Fundamentals](https://developer.mozilla.org/en-US/curriculum/core/javascript-fundamentals/)
