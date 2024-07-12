@@ -17,6 +17,13 @@ __Reference__:
 
 # CHANGELOG
 
+## [0.4.0]
+
+### Added
+
+* JSON object and file import examples
+* Additional docs to the README
+
 ## [0.3.0]
 
 ### Added
